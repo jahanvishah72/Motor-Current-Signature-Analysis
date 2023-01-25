@@ -1,1 +1,0 @@
-# Motor-Current-Signature-Analysis
